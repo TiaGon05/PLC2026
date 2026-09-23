@@ -4,4 +4,4 @@
 - **Identificador de aluno:** a112106
 - **Foto:**
   
-<img width="250" alt="PXL_20260923_132924160" src="https://github.com/user-attachments/assets/1770c17b-a30e-48e7-ad2c-322e9e72d9f3" />
+<img width="350" alt="PXL_20260923_134056275" src="https://github.com/user-attachments/assets/c4ee6e0d-8385-4ef8-96c0-024e2df2519b" />
