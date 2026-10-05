@@ -13,6 +13,8 @@
   2. Imagens e Links: As imagens foram processadas antes dos links para garantir que a sintaxe das mesmas não era incorretamente capturada pela regra dos hiperlinks.
      Usaram-se quantificadores não greedy para permitir varios links/imagens na mesma linha.
   3. Negrito e Itálico: A conversão do negrito foi executada antes do itálico para prevenir conflitos entre os delimitadores de asteriscos
-  4. Listas numeradas: A conversão ocorreu em duas etapas: primeiro, cada item numerado foi convertido na respetiva tag de item (<li></li>). Os blocos de items
-     consecutivos foram agrupados dentro das tags de lista ordenada (<ol></ol>)
+  4. Listas numeradas: A conversão ocorreu em duas etapas: primeiro, cada item numerado foi convertido na respetiva tag de item (li). Os blocos de items
+     consecutivos foram agrupados dentro das tags de lista ordenada (ol)
+
+     Obs: O conversor encontra-se no ficheiro tpc2.py nesta pasta TP2
   
